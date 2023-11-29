@@ -1,5 +1,6 @@
-*****ODMP/COVID/Officer Safety******
-*White, Monk, Watts
+***** Paper: A Half-Century Investigation of Police Officer Line-of-Duty Deaths: Putting the Recent Spike in Long-Term Context 
+***** Authors: White, M., Monk, K., Watts, S ***********************************
+***** Do-file author: Seth Watts ***********************************************
 ********************************************************************************
 global d "/Users/sethwatts/Dropbox (ASU)/MAIN/Officer Down/Data"
 use "$d/ODMP_2017_2021.dta"
